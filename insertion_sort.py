@@ -7,7 +7,7 @@ def insertion_sort_desc(arr):
             j -= 1
         arr[j + 1] = key
 
-# Test the function
+
 array = [5, 3, 8, 6, 2]
 print("Original Array:", array)
 insertion_sort_desc(array)
